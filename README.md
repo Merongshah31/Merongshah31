@@ -73,6 +73,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Merongshah31/Merongshah31/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 <p align="center">
   ✨ <b>"Start small. Build consistently. Scale big."</b>
