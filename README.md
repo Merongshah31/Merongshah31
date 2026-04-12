@@ -74,7 +74,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Merongshah31/Merongshah31/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Merongshah31/Merongshah31/python/github-contribution-grid-snake.svg" />
 </p>
 
 ---
